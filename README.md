@@ -1,4 +1,4 @@
-# CPool_2019
+# CPool_2019 (Part 1)
 {EPITECH} | First year | Unix &amp; C Lab Seminar (part 1)
 
 ### Quick summary of the C Pool
